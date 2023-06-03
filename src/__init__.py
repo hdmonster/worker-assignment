@@ -20,5 +20,5 @@ example
 user = ('vince', 'vince@mail.com')
 
 """
-## Uncomment these lines
+# Uncomment these lines
 # _ = INSERT YOUR CODE HERE

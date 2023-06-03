@@ -15,6 +15,16 @@ class MailService:
 
     @classmethod
     def setup_user(cls, user):
+        """
+        # Guide
+        Initialize user variable so other methods can access it
+
+        # Hint
+        Assign the user parameter to the variable
+
+        example
+        initialize data --> cls.data = data
+        """
         ## Uncomment these lines
         # INSERT YOUR CODE HERE
         pass  # DELETE THIS LINE AFTER YOU EDIT

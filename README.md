@@ -22,6 +22,7 @@ python3 main.py (If above command don't work)
 Complete the code in these files
 
 - `src/__init__.py`
+- `src/pages/main.py`
 - `src/services/mail_service.py`
 - `src/pages/compose/__init__.py`
 - `src/models/incoming_mail.py`
